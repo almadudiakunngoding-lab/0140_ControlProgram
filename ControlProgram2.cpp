@@ -15,4 +15,8 @@ string status_lulus(float r){
     else if (r >=30)
         return "tidak lolos";
 }
-
+int main (){
+    float nilBI,nilMT,rerata;
+    string status;
+    
+}
