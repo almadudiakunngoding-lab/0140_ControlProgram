@@ -1,10 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    int x;
-
-    srand(time(0));
-    x = rand() % 10;
-
+float Rata_rata(float a, float b){
+    return (a+b)/2;
 }
+
